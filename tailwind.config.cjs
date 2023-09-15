@@ -14,9 +14,9 @@ module.exports = {
         18: "4.5rem",
       },
       colors: {
-        "transparent-white": "rgba(255, 255, 255, 0.87)",
+        "Dark-Grey": "rgba(38, 38, 38, 1)",
       },
     },
   },
-  plugins: [],
+  plugins: [{backgroundColor: true}],
 };
